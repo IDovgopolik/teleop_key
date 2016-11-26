@@ -1,4 +1,4 @@
-teleop_key: A simple code to teleoperate Parrot AR.Drone/Bebop/Bebop2 quadcopter.
+###teleop_key: A simple code to teleoperate Parrot AR.Drone/Bebop/Bebop2 quadcopter.
 
 Prerequisite: ardrone_autonomy(https://github.com/AutonomyLab/ardrone_autonomy) / bebop_autonomy(http://bebop-autonomy.readthedocs.io/en/latest/) as per quadcopter
 
