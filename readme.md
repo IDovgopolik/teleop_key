@@ -13,6 +13,7 @@ rosrun teleop_key teleop_key_pub
 Then in different tab, run
 
 rosrun teleop_key teleop_key_sub_bebop (or rosrun teleop_key teleop_key_sub_ardrone)
+
 Make sure that the focus is on teleop_key_pub tab
 
 Here are the teleop commands --
